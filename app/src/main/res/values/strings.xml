@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShaedViewModel</string>
+    <string name="order_summary"><u>Order Summary</u></string>
+</resources>
